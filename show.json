@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul",
+    "email": "Rahul@gmail.com",
+    "purpose": "thesis",
+    "programme": "Software Engineering",
+    "year": 2016,
+    "language": "English",
+    "comments": "In need of correcting a dangling participle.",
+    "status": "RECEIVED"
+  },
+  {
+    "id": 2,
+    "name": "Ajit",
+    "email": "ajit@gmail.com",
+    "purpose": "thesis",
+    "programme": "Software Engineering",
+    "year": 2016,
+    "language": "English",
+    "comments": "In need of correcting a dangling participle.",
+    "status": "RECEIVED"
+  },
+  {
+    "id": 3,
+    "name": "Salman",
+    "email": "Abhinay@gmail.com",
+    "purpose": "thesis",
+    "programme": "Software Engineering",
+    "year": 2016,
+    "language": "Hindi",
+    "comments": "In need of correcting a dangling participle.",
+    "status": "RECEIVED"
+  }
+]
